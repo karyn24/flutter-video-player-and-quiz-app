@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292516703477",
+    "project_id": "dealerware",
+    "storage_bucket": "dealerware.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292516703477:android:4dd3a228fc56ac7b1369bc",
+        "android_client_info": {
+          "package_name": "com.example.urapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292516703477-vfqa2cvs45o5q0bsmi96dumu7rgsbiu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV8chXFnBWT4s-a5MXRhyM9jOiN4GJ3EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292516703477-vfqa2cvs45o5q0bsmi96dumu7rgsbiu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
